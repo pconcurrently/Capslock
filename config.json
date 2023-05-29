@@ -4899,6 +4899,26 @@
           ]
         },
         {
+          "description": "m = messages",
+          "type": "basic",
+          "from": {
+            "key_code": "m",
+            "modifiers": {
+              "mandatory": [
+                "right_command",
+                "right_control",
+                "right_shift",
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "shell_command": "open -a Messages"
+            }
+          ]
+        },
+        {
           "description": "command + r = preview",
           "type": "basic",
           "from": {
