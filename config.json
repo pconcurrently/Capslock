@@ -5188,7 +5188,7 @@
           ]
         },
         {
-          "description": "option + g = Calender",
+          "description": "option + g = Notion Calender",
           "type": "basic",
           "from": {
             "key_code": "g",
@@ -5204,7 +5204,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a Calendar"
+              "shell_command": "open -a Notion Calendar"
             }
           ]
         },
