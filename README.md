@@ -1,5 +1,5 @@
-# caplock
-configuration of karabiner-elements
+# capslock
+personal configuration of karabiner-elements
 
 forked from https://github.com/Vonng/Capslock
 
